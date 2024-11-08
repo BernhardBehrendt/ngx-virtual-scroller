@@ -1,6 +1,6 @@
 {
   "name": "@bernhardb/ngx-virtual-scroller",
-  "version": "18.2.2",
+  "version": "18.2.11",
   "peerDependencies": {
     "@tweenjs/tween.js": "^25.0.0"
   },
